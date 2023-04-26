@@ -1,0 +1,2 @@
+Hola soy Cesar
+Y estamos en un curso de Python
